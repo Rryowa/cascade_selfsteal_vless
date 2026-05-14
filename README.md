@@ -1,4 +1,4 @@
-Guide to setup Selfsteal / self-stealb VLESS connection via remnawave protected by NetBird
+# Guide to setup Selfsteal / self-steal VLESS connection via remnawave protected by NetBird.
 
 You need 3 VPS instances, 1x(1cpu, 2gb ram), 2x(1cpu, 1gb ram).
 2gb ram for Panel,other two for nodes.
