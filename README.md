@@ -28,7 +28,7 @@ bash <(curl -Ls https://github.com/DigneZzZ/remnawave-scripts/raw/main/selfsteal
 
 selfsteal template install filecloud
 ```
-6. Verify Node is Green in GUI
+6. Verify Node is Green in GUI  (if you  using Netbird on panel, check last step of this guide)
 7. Create Config for FIRST node (EU):
 ```json
 {
