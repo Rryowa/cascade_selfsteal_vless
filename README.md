@@ -7,7 +7,7 @@ You need 3 VPS instances, 1x(1cpu, 2gb ram), 2x(1cpu, 1gb ram).
 Create panel domain, sub domain, selfsteal domain for reality masking, point them to VPS where script executed.
  
 ```sh
-ssh <(curl -Ls https://github.com/DigneZzZ/remnawave-scripts/raw/main/remnawave.sh) @ install
+bash <(curl -Ls https://github.com/DigneZzZ/remnawave-scripts/raw/main/remnawave.sh) @ install
 ```
 
 Once installed, the following CLI commands are available:
