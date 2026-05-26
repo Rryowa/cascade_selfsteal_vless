@@ -289,4 +289,4 @@ TUNNEL_EU outbound 'address' must point to the EU NETBIRD IP
 
 You can check ip's in netbird dashboard
 
-16. Also EU exit node will be red until you connect panel to netbird and change ip of eu node to  netbird's one (port is the same)
+16. If you are using NetBird - nodes will be red until you connect all of them to netbird and change ip of each red node to netbird's one (port is the same)
