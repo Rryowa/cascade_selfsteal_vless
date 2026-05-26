@@ -143,7 +143,7 @@ selfsteal template install filecloud
 
 
 8. Assign Node to a config
-9. Verify Node is Green in GUI
+9. Verify Node is Green in GUI (if you  using Netbird on panel, check last step of this guide)
 10. Create a internal 'EU Squad', assign to inbound
 11. Create host, assign to inboud
 12. Repeat steps 3-11 for ENTRY node (RU), config:
